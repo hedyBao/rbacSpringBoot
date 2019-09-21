@@ -14,7 +14,11 @@ public class ConsumerDubboDemo {
 
         String s = stockService.sayHello(name);
         System.out.println(s);
+        System.out.println("weewrerer");
+        System.out.println("weeerer");
+        System.out.println("rerer");
         return s;
+
 
     }
 
